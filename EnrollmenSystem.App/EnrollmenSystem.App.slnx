@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../EnrollmentDatabase/EnrollmentDatabase.sqlproj" Id="6762c812-1a76-43db-a63d-0c0b54486bbb">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="EnrollmenSystem.App.csproj" />
+</Solution>
